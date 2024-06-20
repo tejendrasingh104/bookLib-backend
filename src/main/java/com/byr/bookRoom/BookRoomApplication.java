@@ -1,13 +1,13 @@
-package com.singh.bookLib;
+package com.byr.bookRoom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BookLibApplication {
+public class BookRoomApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BookLibApplication.class, args);
+		SpringApplication.run(BookRoomApplication.class, args);
 	}
 
 }
